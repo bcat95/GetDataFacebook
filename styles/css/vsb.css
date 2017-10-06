@@ -1,0 +1,59 @@
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main-container {
+}
+.ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+}
+.ite-timl{
+  font-size: 11px;
+}
+.items {
+    font-size: 20px;
+}
+.info {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.info a{
+  font-size: 20px !important;
+}
+.ite-inn {
+    margin: 10px 0;
+}
+.ite-des {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.pos-nex {
+  position: fixed;
+  right: 10%;
+  background: rgba(95, 86, 86, 0.5);
+  color: #fff;
+  padding: 5px 10px;
+  top: 45%;
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 999;
+  line-height: 1.5;
+  font-size: 30px;
+}
+.pos-pre {
+  position: fixed;
+  left: 10%;
+  background: rgba(95, 86, 86, 0.5);
+  color: #fff;
+  padding: 5px 10px;
+  top: 45%;
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 999;
+  line-height: 1.5;
+  font-size: 30px;
+}
+.pos-nex a, .pos-pre a{
+  color: #fff;
+}
