@@ -94,7 +94,7 @@ function getBySql($sql){
 		-->
 	</div>
 	<!-- /itmes -->
-	<? }
+	<?php }
 	}else{
 	echo "<center>Không có dữ liệu</center>";
 	}
